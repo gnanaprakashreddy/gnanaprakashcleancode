@@ -2,8 +2,8 @@ package Interest_Calculator;
 
 public class InterestCalculator {
 
-	protected double pamount;
-	protected double roInterest;
-	protected double tperiod;
-	
+	protected double principal;
+	protected double rateOfI;
+	protected double time;
+
 }
